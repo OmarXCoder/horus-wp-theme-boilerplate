@@ -1,0 +1,7 @@
+.site-navbar {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    body.admin-bar &.fixed-top {
+        top: 32px;
+    }
+}

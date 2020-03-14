@@ -1,0 +1,23 @@
+/*!
+Theme Name:         Horus
+Theme URI:          https://github.com/OmarXCoder/horus-wp-theme-boilerplate
+Github Theme URI:   https://github.com/OmarXCoder/horus-wp-theme-boilerplate
+Description:        Another Wordpress theme boilerplate
+Version:            1.0.0
+Author:             Omar Ali
+Author URI:         https://omarali.dev/
+License:            MIT License
+License URI:        http://www.opensource.org/licenses/mit-license.php
+*/
+
+@import "variables";
+
+@import "./utilities";
+@import "./wordpress";
+@import "./components/widgets";
+@import "./components/comments";
+
+@import "./site-navbar";
+@import "./site-content";
+@import "./site-section";
+@import "./site-footer";
